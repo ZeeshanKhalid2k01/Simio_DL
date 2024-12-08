@@ -1,0 +1,4 @@
+Server2_Utilization: 0
+Server2_Utilization and Server3_Utilization: 1
+Server3_Utilization and Server2_Utilization: 2
+no bottleneck: 3
